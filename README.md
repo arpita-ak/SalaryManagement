@@ -1,7 +1,6 @@
 # SalaryManagement
 This is the course project for the course Object Oriented Programming with C++ 
-# (Course Code: 19EECC302) 
-<br/>
+### (Course Code: 19EECC302) 
 <br/>
 <br/>
 # Team of four: <br/>
