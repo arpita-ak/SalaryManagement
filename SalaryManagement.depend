@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587564492 source:d:\6th sem\1mine\oops course proj\salarymanagement\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+

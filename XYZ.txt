@@ -1,0 +1,23 @@
+
+ Our Employee: XYZ
+
+ Employee number: 1234
+
+ Joined on:5/4/2019
+
+ Designation: Manager
+Total days of absence:10as on22/4/2020
+Basic salary per annum:200000
+Salary per month:16666.7
+
+ EMI per annum:5000
+Total 1 years of experience in this.
+
+ After each year the company will increment the salary by:25% of basic.
+Employees Provident Fund (EPF) per annum is 12% of basic salary:24000
+Professional Tax (PT) per annum:250
+Festival bonus is 10% of the basic salary:20000
+Net Salary = Total salary + bonus - EPF - EMI - PT
+
+
+		Net Salary per annum: 221708
