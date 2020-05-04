@@ -1,6 +1,6 @@
 # SalaryManagement
 This is the course project for the course Object Oriented Programming with C++ 
-### (Course Code: 19EECC302) 
+### (Course Code : 19EECC302) 
 
 Salary Management System helps in maintaining employee record by managing employee detail, depending upon employee's attendance, his EMIs, EPFs, Professional Taxes, etc.
 
